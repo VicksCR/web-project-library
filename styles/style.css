@@ -241,8 +241,8 @@
 }
 
 .person_name_feynman {
-   top: -30px;
-   left: 319px;
+  top: -30px;
+  left: 319px;
 }
 
 .person_name_burbidge {
@@ -266,11 +266,11 @@
 }
 
 .person__image {
-  max-width: 100%; */
+  max-width: 100%;
 }
 
 .person__image_size_l {
-  width: 140px; */
+  width: 140px;
 }
 
 .person__image_size_m {
