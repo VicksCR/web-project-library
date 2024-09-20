@@ -345,8 +345,6 @@
 }
 
 .footer__column_content_hours {
-  display: flex;
-  flex-direction: column;
   margin-left: auto;
 }
 
@@ -355,7 +353,7 @@
 }
 
 .footer__logo {
-  width: 50px;
+  width: 58px;
   height: 80px;
 }
 
@@ -377,12 +375,14 @@
 .footer__column-link {
   color: white;
   text-decoration: none;
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
 }
 
 .footer__social-icon {
   height: 16px;
   width: 16px;
-  margin-right: 10px;
 }
 
 .footer__copyright {
